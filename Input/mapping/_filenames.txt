@@ -1,0 +1,7 @@
+For cross-project traceability of files:
+Deltas.csv = DeltaShapes_91_NewBasinShapefile22dWithDeltaIDs_essence_corr.csv
+InlandSinkBasins.csv = 20221103_NewBasinShapefile22d_IDx_OutflowPoints_ConfB3_flowdir.csv
+Area.csv = 20220823_AreaStatistics.csv
+InlandSinkInflowCells.csv = 20221103_NewBasinShapefile22d_IDx_BasinPointGrid_FlowAcc_FlowDir_WithInflowBool.csv
+BasinGrid.csv = DatasetForPublication_BasinPointGridWithContinentalCellArea_22e.csv
+SubBasinInformation.xlsx = SubBasinInformation.xlsx

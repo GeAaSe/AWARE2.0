@@ -2,6 +2,8 @@
 
 This repository contains the implementation of **AWARE 2.0** characterization factors on basin-month-resolution, as documented in https://doi.org/10.1111/jiec.70023. CFs for use in LCA are provided at https://doi.org/10.5281/zenodo.8215863.
 
+For general information on AWARE, see https://wulca-waterlca.org/what-is-aware/
+
 > Note: This code allows to recalculate AWARE2.0. However, due to time constraints at the moment of publishing, it is not optimized for efficiency and could very well be implemented much easier without the AWARE_data and AWARE_CF_equation classes. The reason for the rather overcomplicated logic is that the code was extracted from a larger project that required this logic.
 
 
@@ -84,6 +86,7 @@ See the Jupyter notebooks for complete, working examples.
 
 If you use this code in your research, please cite the documentation additional to the repository:
 - Seitfudem, G., Berger, M., Schmied, H. M., & Boulay, A.-M. (2025). The updated and improved method for water scarcity impact assessment in LCA, AWARE2.0. Journal of Industrial Ecology, 29(3), 891–907. https://doi.org/10.1111/jiec.70023
+
 Further relevant citations:
 - Boulay, A.-M., Bare, J., Benini, L., Berger, M., Lathuillière, M. J., Manzardo, A., Margni, M., Motoshita, M., Núñez, M., Pastor, A. V., Ridoutt, B., Oki, T., Worbe, S., & Pfister, S. (2018). The WULCA consensus characterization model for water scarcity footprints: Assessing impacts of water consumption based on available water remaining (AWARE). International Journal of Life Cycle Assessment, 23(2), 368–378. https://doi.org/10.1007/s11367-017-1333-8
 

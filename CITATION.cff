@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the repository as below and also reference the AWARE2.0 documentation (see citation in README)."
+authors:
+- family-names: "Seitfudem"
+  given-names: "Georg"
+  orcid: "https://orcid.org/0000-0002-1547-9224"
+title: "AWARE2.0 code implementation"
+version: 1.0.0
+date-released: 2026-09-02
+url: "https://github.com/GeAaSe/AWARE2.0"

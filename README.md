@@ -22,9 +22,6 @@ AWARE 2.0 provides spatially explicit characterization factors (CFs) that estima
 
 - **`AWARE_data_import.py`** - Data import and processing functions for converting raw hydrological data (from WaterGAP2.2e) into basin-scale aggregated values. Also works with some other GHMs providing output on ISIMIP.
 
-- **`AWARE_aggregation.py`** - Aggregation tools (`countryAggregator` class) for aggregating basin-scale characterization factors to country level using spatial weighting.
-
-- **`AWARE_help.py`** - Helper functions for common operations including file handling, unit conversions, and data validation.
 
 ### Data
 
@@ -85,7 +82,7 @@ See the Jupyter notebooks for complete, working examples.
 
 ## Citation
 
-If you use this code in your research, please cite 
+If you use this code in your research, please cite the documentation additional to the repository:
 - Seitfudem, G., Berger, M., Schmied, H. M., & Boulay, A.-M. (2025). The updated and improved method for water scarcity impact assessment in LCA, AWARE2.0. Journal of Industrial Ecology, 29(3), 891–907. https://doi.org/10.1111/jiec.70023
 Further relevant citations:
 - Boulay, A.-M., Bare, J., Benini, L., Berger, M., Lathuillière, M. J., Manzardo, A., Margni, M., Motoshita, M., Núñez, M., Pastor, A. V., Ridoutt, B., Oki, T., Worbe, S., & Pfister, S. (2018). The WULCA consensus characterization model for water scarcity footprints: Assessing impacts of water consumption based on available water remaining (AWARE). International Journal of Life Cycle Assessment, 23(2), 368–378. https://doi.org/10.1007/s11367-017-1333-8

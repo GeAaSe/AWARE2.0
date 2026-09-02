@@ -61,14 +61,15 @@ AWARE 2.0 provides spatially explicit characterization factors (CFs) that estima
 - xarray
 - numpy
 - openpyxl (for Excel file handling)
+- certifi
+- netcdf4
 
 ### Setup
 1. Clone or download the repository
-2. Ensure all input data files are present in the `Input/` directory
-3. Install required Python packages:
-   ```bash
-   pip install pandas xarray numpy
-   ```
+2. Create a Python environment with required Python packages (see requirements.txt for the package versions this code was tested with)
+3. Download the Input data (see Jupyter Notebook for more information)
+4. Run Jupyter Notebook
+
 
 ## Usage
 
@@ -96,5 +97,5 @@ Georg Seitfudem, georg.seitfudem@polymtl.ca
 
 ## License
 
-See repository documentation for license information.
+CC BY 4.0
 
